@@ -1,0 +1,107 @@
+*{
+  margin:0;
+  padding:0;
+  font-family:Century Gothic;
+}
+
+
+
+body{
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background: #A2A906;
+}
+
+.container{
+  position: absolute;
+  left:50%;
+  top:50%;
+  transform:translate(-50%, -50%);
+  text-align: center;
+}
+
+.btn{
+  border: none;
+  margin: 20px;
+  padding: 24px;
+  width: 220px;
+  font-family: "montserrant", sans-serif;
+  text-transform: uppercase;
+  border-radius: 6px;
+  cursor: pointer;
+  color: #fff;
+  background-size: 200%;
+}
+
+.btn1{
+  background-image: linear-gradient(to left, #C4E538, #009432, #C4E538);
+}
+
+.btn2{
+  background-image: linear-gradient(to left, #C4E538, #009432, #C4E538);
+}
+
+.btn3{
+  background-image: linear-gradient(to left, #C4E538, #009432, #C4E538);
+}
+
+.btn4{
+  background-image: linear-gradient(to left, #C4E538, #009432, #C4E538);
+}
+
+.btn5{
+  background-image: linear-gradient(to left, #C4E538, #009432, #C4E538);
+}
+
+.btn6{
+  background-image: linear-gradient(to left, #C4E538, #009432, #C4E538);
+}
+
+.btn7{
+  background-image: linear-gradient(to left, #C4E538, #009432, #C4E538);
+}
+
+.btn8{
+  background-image: linear-gradient(to left, #C4E538, #009432, #C4E538);
+}
+
+.btn9{
+  background-image: linear-gradient(to left, #C4E538, #009432, #C4E538);
+}
+
+.btn10{
+  background-image: linear-gradient(to left, #C4E538, #009432, #C4E538);
+}
+
+.btn11{
+  background-image: linear-gradient(to left, #C4E538, #009432, #C4E538);
+}
+
+.btn12{
+  background-image: linear-gradient(to left, #C4E538, #009432, #C4E538);
+}
+
+.btn13{
+  background-image: linear-gradient(to left, #C4E538, #009432, #C4E538);
+}
+
+.btn14{
+  background-image: linear-gradient(to left, #C4E538, #009432, #C4E538);
+}
+
+.btn15{
+  background-image: linear-gradient(to left, #C4E538, #009432, #C4E538);
+}
+
+.btn16{
+  background-image: linear-gradient(to left, #C4E538, #009432, #C4E538);
+}
+
+.btn17{
+  background-image: linear-gradient(to left, #C4E538, #009432, #C4E538);
+}
+
+.btn18{
+  background-image: linear-gradient(to left, #C4E538, #009432, #C4E538);
+}
